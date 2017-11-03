@@ -1,0 +1,1 @@
+pyinstaller qiskit_quantum_program.py -p C:\Users\wildfire\Desktop\project\qiskit-sdk-py
