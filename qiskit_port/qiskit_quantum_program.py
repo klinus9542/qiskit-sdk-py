@@ -1,7 +1,7 @@
 import sys
 from qiskit import QuantumProgram
 
-qp = QuantumParogram()
+qp = QuantumProgram()
 qp.set_api(
     sys.argv[1],
     'https://quantumexperience.ng.bluemix.net/api')
